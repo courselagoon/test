@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c0c14f1.chunk.css",
+    "main.js": "/static/js/main.cb32320a.chunk.js",
+    "main.js.map": "/static/js/main.cb32320a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b7c6af5c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b7c6af5c.js.map",
+    "static/js/2.a3752ee6.chunk.js": "/static/js/2.a3752ee6.chunk.js",
+    "static/js/2.a3752ee6.chunk.js.map": "/static/js/2.a3752ee6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e9e939155aab7b77165219ab03b38aa1.js": "/precache-manifest.e9e939155aab7b77165219ab03b38aa1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5c0c14f1.chunk.css.map": "/static/css/main.5c0c14f1.chunk.css.map",
+    "static/js/2.a3752ee6.chunk.js.LICENSE.txt": "/static/js/2.a3752ee6.chunk.js.LICENSE.txt",
+    "static/media/Register.scss": "/static/media/mail.72f99814.svg",
+    "static/media/data.md": "/static/media/data.fcb9dc94.md",
+    "static/media/hamburger.svg": "/static/media/hamburger.d7e075bc.svg",
+    "static/media/logo.svg": "/static/media/logo.05083390.svg",
+    "static/media/profile-picture.svg": "/static/media/profile-picture.8b2ff291.svg",
+    "static/media/Checkbox.scss": "/static/media/sprite.46308bec.svg",
+    "static/media/wordmark.svg": "/static/media/wordmark.71312318.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7c6af5c.js",
+    "static/js/2.a3752ee6.chunk.js",
+    "static/css/main.5c0c14f1.chunk.css",
+    "static/js/main.cb32320a.chunk.js"
+  ]
+}
